@@ -5,7 +5,7 @@
     <title>UrbanCart</title>
     <body>
       <div class="logo">
-        <h1>UrabCart</h1> 
+        <h1>UrabCart</h1>  
     </div> 
 
     <!-- Navigation Menu -->
