@@ -6,7 +6,7 @@
     <body>
       <div class="logo">
         <h1>UrabCart</h1> 
-    </div>
+    </div> 
 
     <!-- Navigation Menu -->
     <nav class="navbar">
